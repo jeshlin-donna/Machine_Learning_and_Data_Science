@@ -1,4 +1,5 @@
 Deep Learning Hackathon
+
 Date: Nov 2021 
 Issuer: Analytics Club IIT Madras in association with Techsoc IIT Madras
 
