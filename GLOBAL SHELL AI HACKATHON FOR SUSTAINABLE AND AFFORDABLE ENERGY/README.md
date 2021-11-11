@@ -1,4 +1,5 @@
 GLOBAL SHELL AI HACKATHON FOR SUSTAINABLE AND AFFORDABLE ENERGY
+
 Date: Oct 2021 
 Issuer: Jointly by Shell, Microsoft, Nvidia, OpenACC, Hackerearth
 
