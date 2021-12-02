@@ -1,0 +1,1 @@
+Project to predict the stock prices given the time series data of the same. The project was implemented using combined inputs from various research papers. This project was done as part of the course EE4708- Data Analytics Lab.
